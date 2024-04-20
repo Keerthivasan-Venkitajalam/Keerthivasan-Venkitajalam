@@ -4,9 +4,7 @@
 
 ### It's Keerthivasan Venkitajalam 👋
 
-😊 I’m looking to collaborate on any AI/ML related works<br>🤝 I’m looking for help with Data structures & Algorithms<br>
-
-🌱 I’m currently learning Machine Learning and Front-end<br>
+😊 I’m looking to collaborate on any AI/ML related works<br>🤝 I’m looking for help with Data structures & Algorithms<br>🌱 I’m currently learning Machine Learning and Front-end<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
 
