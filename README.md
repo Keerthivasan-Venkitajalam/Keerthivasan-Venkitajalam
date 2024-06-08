@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
 
-* [in/keerthivasan-venkitajalam-nanth-sadh](https://www.linkedin.com/in/keerthivasan-venkitajalam-nanth-sadh)
+* [in/keerthivasansv](www.linkedin.com/in/keerthivasansv)
 * [K🐽 (@keerrrthiv) • Instagram photos and videos](https://www.instagram.com/keerrrthiv/)
 * https://huggingface.co/Keerthivasan-Venkitajalam
 
