@@ -21,3 +21,5 @@ Feel free to reach out for discussions in Literature, AI/ML and Art...
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 [![](https://visitcount.itsvg.in/api?id=Keerthivasansv&label=Profile%20Views&color=9&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/keerrrthiv?theme=dark&font=Courier%20Prime&ext=activity)
