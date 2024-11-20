@@ -20,6 +20,5 @@ Feel free to reach out for discussions in Literature, AI/ML and Art...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-[![](https://visitcount.itsvg.in/api?id=Keerthivasansv&label=Profile%20Views&color=9&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keerrrthiv?theme=dark&font=Courier%20Prime&ext=activity)
