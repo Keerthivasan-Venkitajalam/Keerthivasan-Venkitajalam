@@ -20,15 +20,15 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-<details>
+ 
  <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
  
- <details>
+  
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
   <span><img src="https://img.shields.io/badge/AVV-AIE2027'"></span>
   
 </details>
- <details>
+  
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Web Developer Intern at Artsy Technologies Pvt Ltd**  
@@ -42,7 +42,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
     - Enhanced website responsiveness by 40%, reducing load times by 1.5 seconds and ensuring consistent user experience across devices.
 </details>
   
-<details>
+ 
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/keerrrthiv/)
@@ -53,7 +53,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 </details>
 
 
-<details>
+ 
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
@@ -109,7 +109,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
 
-<details>
+ 
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
 
 1. **Skin Cancer Detection**  
@@ -141,7 +141,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 </details>
 
-<details>
+ 
   <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### GitHub
@@ -153,7 +153,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   </div>
 </details>
 
-<details>
+ 
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
@@ -207,7 +207,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
-<details>
+ 
   <summary>Click to see a random joke</summary>
   <div align="center">
    
