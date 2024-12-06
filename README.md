@@ -4,7 +4,7 @@ Frontend Developer | AI & ML Enthusiast | 3D designer | Into Research & STEM | A
 </br>
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-    <img src="![Profile Views](https://hit.yhype.me/github/profile?account_id=156277853)" alt="Profile Views" style="height:22px;">
+    <img src="![](https://hit.yhype.me/github/profile?account_id=156277853)" alt="Profile Views" style="height:22px;">
 </a>
 </h2>
 
@@ -165,6 +165,9 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   </a>
   <a href="https://www.quora.com/profile/Keerthivasan-Venkitajalam">
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Quora.gif" width="70"/>
+  </a>
+  <a href="https://www.instagram.com/keerrrthiv/">
+    <img align="center" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="70"/>
   </a>
 </div>
 
