@@ -5,7 +5,7 @@ import re
 if __name__ == "__main__":
 
     # Replace the author name with your GitHub username
-    url = "https://api.github.com/search/issues?q=is:pr+author:ParthJohri+is:merged"
+    url = "https://api.github.com/search/issues?q=is:pr+author:Keerthivasan-Venkitajalam+is:merged"
 
     r = requests.get(url)
     if r.status_code == 200:
