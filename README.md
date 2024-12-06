@@ -84,7 +84,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-  #### Libraries/Frameworks
+  #### Libraries/Frameworks/Tools
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   [Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -106,12 +106,6 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-  #### Deployment
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-  #### Tools
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
@@ -119,8 +113,10 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- 
 
+  #### Deployment
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
  
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
 
@@ -148,11 +144,6 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 8. **Deadlock Detection in Resource Allocation**  
    A project focused on using Kahn’s algorithm to detect deadlocks in resource allocation graphs. This project helps in identifying and resolving resource conflicts in concurrent systems.
 
-9. **Health App - 'HealthyHer'**  
-   A mobile app designed to address women's health challenges, providing information, tracking well-being, and offering personalized advice to improve health outcomes.
-
- 
-
  
   <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
@@ -165,8 +156,6 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan-Venkitajalam&theme=gotham&hide_border=false" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=tru" height="150">
 </div>
- 
-
  
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
@@ -184,9 +173,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
     <img align="center" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="70"/>
   </a>
 </div>
-
  
-
 ## <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
