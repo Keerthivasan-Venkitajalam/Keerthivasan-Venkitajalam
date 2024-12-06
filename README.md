@@ -27,7 +27,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
   <span><img src="https://img.shields.io/badge/AVV-AIE2027'"></span>
   
-</details>
+ 
   
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
@@ -40,7 +40,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
     - Improved crop yield prediction accuracy by 12% using fine-tuned machine learning models in Python and TensorFlow on real-world agricultural data.  
     - Designed 10+ reusable 3D assets in Blender, reducing design cycles by 20% for game development projects.  
     - Enhanced website responsiveness by 40%, reducing load times by 1.5 seconds and ensuring consistent user experience across devices.
-</details>
+ 
   
  
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
@@ -50,7 +50,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/cbscu4ailk61/)
   [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keerrrthiv)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/cb_sc_u4aie23037)
-</details>
+ 
 
 
  
@@ -107,7 +107,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-</details>
+ 
 
  
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
@@ -139,7 +139,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 9. **Health App - 'HealthyHer'**  
    A mobile app designed to address women's health challenges, providing information, tracking well-being, and offering personalized advice to improve health outcomes.
 
-</details>
+ 
 
  
   <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
@@ -151,7 +151,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![Keerthivasan-Venkitajalam's Stats](https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
   </div>
-</details>
+ 
 
  
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
@@ -171,7 +171,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   </a>
 </div>
 
-</details>
+ 
 
 ## <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
@@ -207,14 +207,14 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
- 
+<details> 
   <summary>Click to see a random joke</summary>
   <div align="center">
    
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   
   </div>
-</details>
+</details> 
 
 <div align="center">
   <picture>
