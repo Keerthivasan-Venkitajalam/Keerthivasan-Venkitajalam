@@ -4,8 +4,8 @@ Frontend Developer | AI & ML Enthusiast | 3D designer | Into Research & STEM | A
 </br>
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-    <img src="![](https://komarev.com/ghpvc/?Keerthivasan-Venkitajalam)" alt="Profile Views" style="height:22px;">
 </a>
+![Profile Count](https://komarev.com/ghpvc/?Keerthivasan-Venkitajalam)
 </h2>
 
 <p align="center">
