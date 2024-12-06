@@ -150,12 +150,14 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### GitHub
-  <div align="center">
-  ![Keerthivasan-Venkitajalam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-  ![Keerthivasan-Venkitajalam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan-Venkitajalam&theme=gotham&hide_border=false)
-  ![Keerthivasan-Venkitajalam's Stats](https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
-  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&layout=compact">
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan-Venkitajalam&theme=gotham&hide_border=false" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=tru" height="150">
+</div>
  
 
  
