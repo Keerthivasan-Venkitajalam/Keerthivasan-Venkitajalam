@@ -1,9 +1,10 @@
 <h1 align="center">Heyyy<img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px"/>, I'm Keerthivasan (Keerthivasan S V) Venkitajalam</h1>
 <h2 align="center">
-  <img src="![](https://hit.yhype.me/github/profile?account_id=156277853)" alt="Profile Views" style="height:21px;">
 Frontend Developer | AI & ML Enthusiast | 3D designer | Into Research & STEM | Aspiring Writer
+</br>
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+    <img src="![Profile Views](https://hit.yhype.me/github/profile?account_id=156277853)" alt="Profile Views" style="height:22px;">
 </a>
 </h2>
 
