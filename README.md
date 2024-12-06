@@ -7,13 +7,13 @@
   />
 </span>
 
-
+[![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
+</h2>
 <h2 align="center">
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
-[![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
-</h2>
+
 
 <p align="center">
 I’m currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence. I’m passionate about machine learning, deep learning, and their application in various fields such as healthcare and cybersecurity. Along with my academic journey, I’m also dedicated to exploring innovative solutions that integrate AI in medicine and other research opportunities around that domain.
