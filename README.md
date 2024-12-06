@@ -1,4 +1,12 @@
-# <span style="display: flex; align-items: center;">Heyyy, I'm Keerthivasan (Keerthivasan S V) Venkitajalam <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend Developer...;AI & ML Enthusiast...;3D designer...;Into Research & STEM...;Aspiring Writer..." alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
+# <span style="display: flex; align-items: center;">Heyyy, I'm Keerthivasan (Keerthivasan S V) Venkitajalam
+  <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend+Developer...;AI+%26+ML+Enthusiast...;3D+designer...;Into+Research+%26+STEM...;Aspiring+Writer..."
+    alt="Typing SVG" 
+    style="margin-left: 10px; position: relative; top: 2px;" 
+  />
+</span>
+
 
 <h2 align="center">
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
