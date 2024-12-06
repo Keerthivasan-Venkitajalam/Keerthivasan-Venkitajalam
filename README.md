@@ -5,7 +5,6 @@ Frontend Developer | AI & ML Enthusiast | 3D designer | Into Research & STEM | A
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
-![](https://hit.yhype.me/github/profile?account_id=156277853)
 </h2>
 
 <p align="center">
