@@ -15,7 +15,7 @@
 </h2>
 
 <p align="center">
-I’m currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence. I’m passionate about machine learning, deep learning, and their application in various fields such as healthcare and cybersecurity. Along with my academic journey, I’m also dedicated to exploring innovative solutions that integrate AI in medicine, especially personalized treatment plans based on genomic data.
+I’m currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence. I’m passionate about machine learning, deep learning, and their application in various fields such as healthcare and cybersecurity. Along with my academic journey, I’m also dedicated to exploring innovative solutions that integrate AI in medicine and other research opportunities around that domain.
 
 <p align="center">
 As an aspiring writer and poetry enthusiast, I like to balance my technical interests with creativity. I'm also exploring new technologies in the IoRT space and enjoy collaborating on interdisciplinary projects that push the boundaries of AI and technology.
