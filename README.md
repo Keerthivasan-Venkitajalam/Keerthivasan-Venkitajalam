@@ -12,6 +12,7 @@
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
+[![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
 </h2>
 
 <p align="center">
