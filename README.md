@@ -1,16 +1,17 @@
-<h1 align="center">Heyyy, <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Hi.gif" width="28px"/>, I'm Keerthivasan (Keerthivasan S V) Venkitajalam</h2>
+<h1 align="center">Heyyy<img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px"/>, I'm Keerthivasan (Keerthivasan S V) Venkitajalam</h1>
 <h2 align="center">
   <img src="![](https://hit.yhype.me/github/profile?account_id=156277853)" alt="Profile Views" style="height:21px;">
 Frontend Developer | AI & ML Enthusiast | 3D designer | Into Research & STEM | Aspiring Writer
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
+</h2>
 
+<p align="center">
 I’m currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence. I’m passionate about machine learning, deep learning, and their application in various fields such as healthcare and cybersecurity. Along with my academic journey, I’m also dedicated to exploring innovative solutions that integrate AI in medicine, especially personalized treatment plans based on genomic data.
 
+<p align="center">
 As an aspiring writer and poetry enthusiast, I like to balance my technical interests with creativity. I'm also exploring new technologies in the IoRT space and enjoy collaborating on interdisciplinary projects that push the boundaries of AI and technology.
-
-</h2>
 
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
@@ -19,15 +20,15 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
   <span><img src="https://img.shields.io/badge/AVV-AIE2027'"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Web Developer Intern at Artsy Technologies Pvt Ltd**  
     - Developed responsive card components and hero sections for dynamic content, improving visual appeal and engagement by 25%.  
@@ -48,12 +49,11 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/cbscu4ailk61/)
   [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keerrrthiv)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/cb_sc_u4aie23037)
-
 </details>
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -109,7 +109,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
 
 1. **Skin Cancer Detection**  
    Using Convolutional Neural Networks (CNNs), this project leverages deep learning to accurately detect skin cancer. The model is integrated with a Flask web interface and deployed using Docker, ensuring portability and scalability.
@@ -141,7 +141,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### GitHub
   <div align="center">
@@ -157,24 +157,24 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/Keerthivasan-Venkitajalam/">
-    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/keerthivasan-venkitajalam-413127218/">
-    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Keerthivasan-Venkitajalam">
-    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
 </details>
 
-## <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via</i>
 &nbsp;<a href="mailto:contact.keerthivasansv2006@outlook.com">
-     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/Gmail.gif"  width="100"/>
+     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
@@ -191,7 +191,7 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 5. 🙌🏼 Merged PR [#1](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS/pull/1) - [Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS)
 <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#45](https://github.com/Keerthivasan-Venkitajalam/remotif.ai/pull/45) in [Keerthivasan-Venkitajalam/remotif.ai](https://github.com/Keerthivasan-Venkitajalam/remotif.ai)
@@ -214,8 +214,8 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/icons/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/github-contribution-grid-snake.svg">
   </picture>
 </div>
