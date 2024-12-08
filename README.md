@@ -16,10 +16,10 @@
 
 <h4>
 <p align="center">
-I’m currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence. I’m passionate about machine learning, deep learning, and their application in various fields such as healthcare and cybersecurity. Along with my academic journey, I’m also dedicated to exploring innovative solutions that integrate AI in medicine and other research opportunities around that domain.
+I’m currently trudging through my B.Tech in Computer Science with a specialization in Artificial Intelligence, because apparently, I thought mixing algorithms with creativity was a good idea. My passion for machine learning, deep learning, and their "life-changing" applications in healthcare and cybersecurity has me constantly juggling between coding marathons and pretending I understand quantum physics. Spoiler alert: I barely know how to code, and trust me, it’s true.
 
 <p align="center">
-As an aspiring writer and poetry enthusiast, I like to balance my technical interests with creativity. I'm also exploring new technologies in the IoRT space and enjoy collaborating on interdisciplinary projects that push the boundaries of AI and technology.
+When I'm not lost in a sea of technical papers, I try to balance the insanity of AI with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and AI to their limits.
 </h4>
 
 <div align="center">
