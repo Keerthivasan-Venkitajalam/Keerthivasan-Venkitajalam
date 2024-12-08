@@ -116,33 +116,6 @@ As an aspiring writer and poetry enthusiast, I like to balance my technical inte
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
  
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Key Projects</h4></summary>
-
-1. **Skin Cancer Detection**  
-   Using Convolutional Neural Networks (CNNs), this project leverages deep learning to accurately detect skin cancer. The model is integrated with a Flask web interface and deployed using Docker, ensuring portability and scalability.
-
-2. **Remote Health Care Monitoring System**  
-   Designed with Arduino Nano 33 IoT and Raspberry Pi, this system monitors vital health parameters remotely. It aims to enhance patient care by providing real-time data for medical professionals.
-
-3. **Graph Data Structures & Algorithms**  
-   Working on implementing various graph representations, such as adjacency lists and matrices, to analyze and solve graph problems. This includes applications in topological sorting, cycle detection, and shortest path algorithms.
-
-4. **Pyrolysis of Biomass using Machine Learning**  
-   A machine learning model to predict the decomposition stages and yields of hemicellulose, cellulose, and lignin during the pyrolysis process. This project uses thermogravimetric analysis (TGA) data to optimize bioenergy production.
-
-5. **AI for Personalized Medicine**  
-   Working with the Genomics of Drug Sensitivity in Cancer (GDSC) dataset, I am developing algorithms to personalize cancer treatment based on genomic data. This project bridges AI and healthcare, enhancing patient outcomes.
-
-6. **Iterated Local Search for TSP**  
-   Exploring the Traveling Salesman Problem (TSP) using an Iterated Local Search (ILS) algorithm. The implementation runs in parallel, optimizing the solution using various performance metrics and visualization tools.
-
-7. **Remote Sensing for Natural Disaster Prediction**  
-   Using machine learning to assess and predict natural disasters such as floods and wildfires, this project applies remote sensing techniques to analyze environmental data, offering real-time predictions.
-
-8. **Deadlock Detection in Resource Allocation**  
-   A project focused on using Kahn’s algorithm to detect deadlocks in resource allocation graphs. This project helps in identifying and resolving resource conflicts in concurrent systems.
-
- 
   <summary><h2> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### GitHub
