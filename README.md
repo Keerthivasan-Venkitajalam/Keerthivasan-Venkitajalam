@@ -23,7 +23,6 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
 </h4>
 
 <div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
   <img alt="GIF" src="https://c.tenor.com/Q5xdMAdZuw4AAAAM/rick-roll.gif" />
 </div>
 
