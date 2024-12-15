@@ -10,7 +10,7 @@
 [![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
 </h2>
 <h2 align="center">
-<a href="[https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/](https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V/)">
+<a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
