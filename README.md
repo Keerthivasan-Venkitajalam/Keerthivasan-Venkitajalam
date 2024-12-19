@@ -16,10 +16,10 @@
 
 <h4>
 <p align="center">
-I’m currently trudging through my B.Tech in Computer Science with a specialization in Artificial Intelligence, because apparently, I thought mixing algorithms with creativity was a good idea. My passion for machine learning, deep learning, and their "life-changing" applications in healthcare and cybersecurity has me constantly juggling between coding marathons and pretending I understand quantum physics. Spoiler alert: I barely know how to code, and trust me, it’s true.
+I’m currently trudging through my B.Tech in Computer Science with a specialization in Artificial Intelligence, because apparently, I thought mixing algorithms with creativity was a good idea. My passion for machine learning, deep learning, and their "life-changing" applications in healthcare and cybersecurity has me constantly juggling between coding marathons and pretending I understand quantum physics and those codes. Spoiler alert: I barely know how to code, and trust me, it’s true.
 
 <p align="center">
-When I'm not lost in a sea of technical papers, I try to balance the insanity of AI with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and AI to their limits.
+When I'm not lost in a sea of technical papers, I try to balance the insanity of this with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and these stuffs to their limits.
 </h4>
 
 <div align="center">
@@ -119,10 +119,8 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
 
   ### GitHub
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&layout=compact">
-</div>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&layout=compact">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan-Venkitajalam&theme=gotham&hide_border=false" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=tru" height="150">
 </div>
@@ -135,9 +133,6 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
   </a>
   <a href="https://www.linkedin.com/in/keerthivasan-venkitajalam-413127218/">
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Linkedin.gif" width="70"/>
-  </a>
-  <a href="https://www.quora.com/profile/Keerthivasan-Venkitajalam">
-    <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Quora.gif" width="70"/>
   </a>
   <a href="https://www.instagram.com/keerrrthiv/">
     <img align="center" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="70"/>
