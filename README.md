@@ -16,10 +16,10 @@
 
 <h4>
 <p align="center">
-I’m currently trudging through my B.Tech in Computer Science with a specialization in Artificial Intelligence, because apparently, I thought mixing algorithms with creativity was a good idea. My passion for machine learning, deep learning, and their "life-changing" applications in healthcare and cybersecurity has me constantly juggling between coding marathons and pretending I understand quantum physics and those codes. Spoiler alert: I barely know how to code, and trust me, it’s true.
-
-<p align="center">
-I try to balance the insanity of this with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and these stuffs to their limits.
+B.Tech in Computer Science with AI—where creativity meets chaos. I juggle machine learning, deep learning, and the occasional code tantrum, all while pretending to grasp quantum physics.  
+<br><br>
+Writing and poetry keep me sane-ish, but collaboration? Only if it tests logic and my last nerve.
+</p>
 </h4>
 
 <div align="center">
