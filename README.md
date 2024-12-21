@@ -19,7 +19,7 @@
 I’m currently trudging through my B.Tech in Computer Science with a specialization in Artificial Intelligence, because apparently, I thought mixing algorithms with creativity was a good idea. My passion for machine learning, deep learning, and their "life-changing" applications in healthcare and cybersecurity has me constantly juggling between coding marathons and pretending I understand quantum physics and those codes. Spoiler alert: I barely know how to code, and trust me, it’s true.
 
 <p align="center">
-When I'm not lost in a sea of technical papers, I try to balance the insanity of this with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and these stuffs to their limits.
+I try to balance the insanity of this with my love for writing and poetry—because who doesn't need an emotional outlet while debugging? I'm also diving into the IoRT space, probably just to confuse myself more, and love collaborating on projects that somehow manage to push both my sanity and these stuffs to their limits.
 </h4>
 
 <div align="center">
@@ -40,22 +40,6 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
   <span><img src="https://img.shields.io/badge/AVVAIE'27-AIE2027'"></span>
   
- 
-  
-  <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
-
-- **Web Developer Intern at Artsy Technologies Pvt Ltd**  
-    - Developed responsive card components and hero sections for dynamic content, improving visual appeal and engagement by 25%.  
-    - Worked on the overall website layout, aligning design with brand guidelines, aiming to increase user retention and accessibility.  
-    - Created reusable design components for a gallery feature, streamlining frontend development workflows by 20%.
-
-- **AI Intern, Web Designer, 3D Modeling Intern at Dyne Research** 
-    - Improved crop yield prediction accuracy by 12% using fine-tuned machine learning models in Python and TensorFlow on real-world agricultural data.  
-    - Designed 10+ reusable 3D assets in Blender, reducing design cycles by 20% for game development projects.  
-    - Enhanced website responsiveness by 40%, reducing load times by 1.5 seconds and ensuring consistent user experience across devices.
- 
-  
- 
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/keerrrthiv/)
@@ -63,10 +47,7 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/cbscu4ailk61/)
   [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keerrrthiv)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/cb_sc_u4aie23037)
- 
-
-
- 
+  
   <summary><h4> <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
@@ -147,29 +128,6 @@ When I'm not lost in a sea of technical papers, I try to balance the insanity of
      <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
-
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-30-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
-
-<!--Start Merged PRs-->
-1. 🎉 Merged PR [#45](https://github.com/Keerthivasan-Venkitajalam/remotif.ai/pull/45) - [Keerthivasan-Venkitajalam/remotif.ai](https://github.com/Keerthivasan-Venkitajalam/remotif.ai)
-2. 🎊 Merged PR [#3](https://github.com/Keerthivasan-Venkitajalam/Healthy-Her/pull/3) - [Keerthivasan-Venkitajalam/Healthy-Her](https://github.com/Keerthivasan-Venkitajalam/Healthy-Her)
-3. 🥳 Merged PR [#12](https://github.com/Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML/pull/12) - [Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML](https://github.com/Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML)
-4. 🥂 Merged PR [#19](https://github.com/Keerthivasan-Venkitajalam/Remote_Sensing_AI/pull/19) - [Keerthivasan-Venkitajalam/Remote_Sensing_AI](https://github.com/Keerthivasan-Venkitajalam/Remote_Sensing_AI)
-5. 🙌🏼 Merged PR [#1](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS/pull/1) - [Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS)
-<!--Finish Merged PRs-->
-
-### <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#45](https://github.com/Keerthivasan-Venkitajalam/remotif.ai/pull/45) in [Keerthivasan-Venkitajalam/remotif.ai](https://github.com/Keerthivasan-Venkitajalam/remotif.ai)
-2. 🗣 Commented on [#3](https://github.com/Keerthivasan-Venkitajalam/Healthy-Her/issues/3#issuecomment-2276378404) in [Keerthivasan-Venkitajalam/Healthy-Her](https://github.com/Keerthivasan-Venkitajalam/Healthy-Her)
-3. 💪 Opened PR [#12](https://github.com/Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML/pull/12) in [Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML](https://github.com/Keerthivasan-Venkitajalam/ils_on_tsp_and_added_ML)
-4. 🗣 Commented on [#1](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS/issues/1#issuecomment-2276376235) in [Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS](https://github.com/Keerthivasan-Venkitajalam/MAINTENANCE-NEEDS)
-5. 🚀 Pushed **15 commits** to [Keerthivasan-Venkitajalam/remotif.ai](https://github.com/Keerthivasan-Venkitajalam/remotif.ai)
-<!--END_SECTION:activity-->
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
