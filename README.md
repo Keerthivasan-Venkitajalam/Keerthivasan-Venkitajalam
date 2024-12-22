@@ -18,7 +18,7 @@
 <p align="center">
 B.Tech in Computer Science with AI—where creativity meets chaos. I juggle machine learning, deep learning, and the occasional code tantrum, all while pretending to grasp quantum physics.  
 <br><br>
-Writing and poetry keep me sane-ish, but collaboration? Always ```WELCOME```.
+Writing and poetry keep me sane-ish, but collaboration? Always `WELCOME`.
 </p>
 </h4>
 
