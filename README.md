@@ -1,15 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
-  body {
-    font-family: 'Montserrat', sans-serif;
-  }
-
-  h2, h4, p, span {
-    font-family: 'Montserrat', sans-serif;
-  }
-</style>
-
 # <span style="display: flex; align-items: center;">Heyyy, I'm Keeeeerthivaaasan
   <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
   <img 
@@ -28,9 +16,9 @@
 
 <h4>
 <p align="center">
-B.Tech in Computer Science with AI—where creativity meets chaos. I juggle machine learning, deep learning, and the occasional code tantrum, all while pretending to grasp quantum physics.  
+B.Tech in Computer Science with AI—where creativity meets chaos. I juggle machine learning, deep learning, and the occasional code tantrum, all while pretending to grasp some quantum physics.  
 <br><br>
-Writing and poetry keep me sane-ish, but collaboration? Always `WELCOME`.
+Writing and poetry keep me sane-ish, but collaboration? Always WELCOME.
 </p>
 </h4>
 
@@ -140,17 +128,6 @@ Writing and poetry keep me sane-ish, but collaboration? Always `WELCOME`.
      <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
-
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
-
-<details> 
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  
-  </div>
-</details> 
 
 <div align="center">
   <picture>
