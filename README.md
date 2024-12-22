@@ -1,3 +1,15 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  h2, h4, p, span {
+    font-family: 'Montserrat', sans-serif;
+  }
+</style>
+
 # <span style="display: flex; align-items: center;">Heyyy, I'm Keeeeerthivaaasan
   <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
   <img 
