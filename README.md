@@ -1,7 +1,7 @@
 # <span style="display: flex; align-items: center;">Heyyy, I'm Keeeeerthivaaasan
   <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend...;Occationally+%26+Backend...;AI,+%26+ML+%26+&+%26+DL...;3D+designs...;Research+%26+STEM...;Writer+%26+&+%26+Poet..."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend...;Occationally+Backend...;AI,+ML+%26+DL...;3D+designs...;Research+%26+STEM...;Writer+%26+Poet..."
     alt="Typing SVG" 
     style="margin-left: 10px; position: relative; top: 2px;" 
   />
