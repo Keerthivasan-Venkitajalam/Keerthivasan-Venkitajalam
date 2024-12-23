@@ -1,7 +1,7 @@
 # <span style="display: flex; align-items: center;">Heyyy, I'm Keeeeerthivaaasan
   <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend+Developer...;AI+%26+ML+Enthusiast...;3D+designer...;Into+Research+%26+STEM...;Aspiring+Writer..."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Frontend...;Occationally+%26+Backend...;AI,+%26+ML+%26+&+%26+DL...;3D+designs...;Research+%26+STEM...;Writer+%26+&+%26+Poet..."
     alt="Typing SVG" 
     style="margin-left: 10px; position: relative; top: 2px;" 
   />
@@ -13,8 +13,6 @@
 <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
-
-B.Tech in Computer Science with AI—where creativity meets chaos. I juggle ML, DL, and the occasional code tantrum, all while pretending to grasp some quantum physics and barely knowing to code.
 
 <div align="center">
   <img alt="GIF" src="https://c.tenor.com/Q5xdMAdZuw4AAAAM/rick-roll.gif" />
