@@ -108,18 +108,9 @@
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.instagram.com/keerrrthiv/">
-    <img align="center" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="70"/>
+    <img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" width="70"/>
   </a>
 </div>
- 
-## <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Contact.gif"  width="37"/> Contact Me
-
-<p> 
- <i>You can reach out to me via</i>
-&nbsp;<a href="mailto:contact.keerthivasansv2006@outlook.com">
-     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Gmail.gif"  width="100"/>
- </a>
-</p>
 
 <div align="center">
   <picture>
