@@ -14,13 +14,8 @@
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
-<h4>
-<p align="justify">
-B.Tech in Computer Science with AI—where creativity meets chaos. I juggle ML, DL, and the occasional code tantrum, all while pretending to grasp some quantum physics and barely knowing to code.  
-<br><br>
-Writing and poetry keep me sane-ish, but collaboration? Always Willing to HELP !
-</p>
-</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=B.Tech+in+Computer+Science+with+AI;Where+Creativity+Meets+Chaos;ML%2C+DL%2C+and+Code+Tantrums;Always+Willing+to+HELP!)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img alt="GIF" src="https://c.tenor.com/Q5xdMAdZuw4AAAAM/rick-roll.gif" />
