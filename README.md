@@ -22,7 +22,7 @@
  
  <summary>
   <h2>
-    <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/resume.html" target="_blank">
+    <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V/resume.html" target="_blank">
       <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/about.png" width="37" /> Resume
     </a>
   </h2>
@@ -108,7 +108,7 @@
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.instagram.com/keerrrthiv/">
-    <img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" width="70"/>
+    <img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" width="40"/>
   </a>
 </div>
 
