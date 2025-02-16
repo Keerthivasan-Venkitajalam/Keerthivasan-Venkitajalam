@@ -8,7 +8,7 @@
 </span>
 </h2>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About
  
  <summary>
   <h2>
@@ -81,8 +81,6 @@
   ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&layout=compact">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan-Venkitajalam&theme=gotham&hide_border=false" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan-Venkitajalam&theme=gotham&show_icons=true&hide_border=false&count_private=tru" height="150">
 </div>
  
