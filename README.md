@@ -11,11 +11,11 @@
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About
  
  <summary>
-  <h2>
+<!--   <h2>
     <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V/resume.html" target="_blank">
       <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/about.png" width="37" /> Resume
     </a>
-  </h2>
+  </h2> -->
 </summary>
 
   
@@ -82,12 +82,12 @@
   <a href="https://github.com/Keerthivasan-Venkitajalam/">
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://www.linkedin.com/in/keerthivasan-venkitajalam-413127218/">
+<!--   <a href="https://www.linkedin.com/in/keerthivasan-venkitajalam-413127218/">
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.instagram.com/keerrrthiv/">
     <img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" width="40"/>
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
