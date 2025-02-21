@@ -10,7 +10,7 @@
 
  <summary>
   <h2>
-    <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/resume.html" target="_blank">
+    <a href="https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V/resume.html" target="_blank">
       <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/about.png" width="37" /> Resume
     </a>
   </h2>
