@@ -12,6 +12,11 @@ user@kvas:~$ cat whoami.md
 </span>
 </h2>
 
+<!-- GitHub activity graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthivasan-Venkitajalam&bg_color=0d1117&color=a2a0a1&line=46c85c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
+
 
   ```bash
 user@kvas:~$ cat resume.md
