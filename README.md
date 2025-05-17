@@ -3,7 +3,11 @@ user@kvas:~$ hi
 # Connection established.
 ```
   <img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="28px" />
-  <img 
+  
+```bash
+user@kvas:~$ cat whoami.md
+```
+
    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=4CD964&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Dev...;Full+Stack+%26+App+Dev...;3D+%26+UI/UX+Design...;Research+%26+STEM...;Writing..." alt="Typing SVG" />
 </span>
 </h2>
@@ -14,7 +18,15 @@ user@kvas:~$ cat resume.md
 ```
 
 <a href="https://keerthivasansv-portfolio.vercel.app/resume.html" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-4CD964?style=for-the-badge&logo=ghostery&logoColor=yellow" alt="View Resume"/>
+  <img src="https://img.shields.io/badge/View%20Resume-4CD964?style=for-the-badge&logo=ghostery&logoColor=blue" alt="View Resume"/>
+</a>
+
+```bash
+user@kvas:~$ cat portfolio.md
+```
+
+<a href="https://keerthivasansv-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=red" alt="View Portfolio"/>
 </a>
 
 
