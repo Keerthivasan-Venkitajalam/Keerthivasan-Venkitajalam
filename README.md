@@ -22,7 +22,7 @@ user@kvas:~$ cat whoami.md
 user@kvas:~$ cat resume.md
 ```
 
-<a href="https://keerthivasansv-portfolio.vercel.app/resume.html" target="_blank">
+<a href="https://www.keerthivasansv.site/resume.html" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-4CD964?style=for-the-badge&logo=ghostery&logoColor=blue" alt="View Resume"/>
 </a>
 
@@ -31,7 +31,7 @@ user@kvas:~$ cat resume.md
 user@kvas:~$ cat portfolio.md
 ```
 
-<a href="https://keerthivasansv-portfolio.vercel.app/" target="_blank">
+<a href="https://www.keerthivasansv.site" target="_blank">
   <img src="https://img.shields.io/badge/View%20Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=red" alt="View Portfolio"/>
 </a>
 
