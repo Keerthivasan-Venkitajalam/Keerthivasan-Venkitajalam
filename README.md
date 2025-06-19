@@ -7,6 +7,7 @@ user@kvas:~$ hi
 ```bash
 user@kvas:~$ cat whoami.md
 ```
+<img src="https://github.com/user-attachments/assets/5b740b7f-7677-4c25-8f9d-bb669129e7fc" style="border: 2px solid transparent; border-image: linear-gradient(to right, #4CD964, #0F2027); border-image-slice: 1; border-radius: 8px;" />
 
    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=4CD964&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Dev...;Full+Stack+%26+App+Dev...;3D+%26+UI/UX+Design...;Research+%26+STEM...;Writing..." alt="Typing SVG" />
 </span>
@@ -70,7 +71,7 @@ user@kvas:~$ cat tech-stack.txt | grep -i "languages"
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ```bash
-user@kvas:~$ cat tech-stack.txt | grep -i "frameworks"
+user@kvas:~$ cat tech-stack.txt | grep -i "frameworks & tools"
 ```
 
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
