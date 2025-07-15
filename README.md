@@ -36,7 +36,7 @@ user@kvas:~$ cat portfolio.md
   <img src="https://img.shields.io/badge/View%20Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=red" alt="View Portfolio"/>
 </a>
 
-[![Credly Profile](https://img.shields.io/badge/Credly_Profile-0073b1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/keerthivasan-s-v)
+[![Credly Profile](https://img.shields.io/badge/Credly_Profile-0073b1?style=for-the-badge&logo=link&logoColor=white)](https://www.credly.com/users/keerthivasan-s-v)
 
 
 ```bash
