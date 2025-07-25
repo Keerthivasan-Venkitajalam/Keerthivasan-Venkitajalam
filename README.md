@@ -112,7 +112,7 @@ user@kvas:~$ cat handles.txt | grep -i "social"
 ```
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/Keerthivasan-Venkitajalam/">
+  <a href="https://github.com/keerthivasansv">
     <img align="center" src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/keerthivasan-venkitajalam-413127218/">
