@@ -19,21 +19,20 @@ user@kvas:~$ cat resume.md
 ```
 
 <a href="https://www.keerthivasansv.site/resume.html" target="_blank">
-  
-![View Resume](https://img.shields.io/badge/View%20Resume-808080?style=for-the-badge&logo=ghostery&logoColor=black)
+  <img src="https://img.shields.io/badge/View%20Resume-808080?style=for-the-badge&logo=ghostery&logoColor=black" alt="View Resume"/>
 </a>
+
 
 
 ```bash
 user@kvas:~$ cat portfolio.md
 ```
 
-<a href="https://www.keerthivasansv.site" target="_blank">
-
+<a href="https://www.keerthivasansv.site">
+  <img src="https://img.shields.io/badge/View%20Portfolio-808080?style=for-the-badge&logo=vercel&logoColor=black" alt="View Portfolio"/>
 </a>
 
 [![Credly Profile](https://img.shields.io/badge/Credly_Profile-0073b1?style=for-the-badge&logo=link&logoColor=white)](https://www.credly.com/users/keerthivasan-s-v)
-![View Portfolio](https://img.shields.io/badge/View%20Portfolio-808080?style=for-the-badge&logo=vercel&logoColor=black)
 
 
 ```bash
